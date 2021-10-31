@@ -39,7 +39,11 @@
 
 ## 📚 Learning Resources
 
-...
+### Microsoft Learn
+
+- [Solution Architect series: Plan application lifecycle management for Power Platform](https://docs.microsoft.com/en-us/learn/modules/application-lifecycle-management-architect/)
+- [Develop an Application Lifecycle Management strategy for Dynamics 365 solutions](https://docs.microsoft.com/en-us/learn/modules/application-lifecycle-management/)
+- [Extend Power Apps portals](https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/)
 
 ## ❗ Code of Conduct
 
