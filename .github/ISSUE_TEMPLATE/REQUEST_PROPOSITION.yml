@@ -13,6 +13,20 @@ body:
       placeholder: ex. https://docs.microsoft.com/en-us/learn/modules/application-lifecycle-management-architect/
     validations:
       required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What category suit best the learning resource you want to add?
+      options:
+        - Microsoft Learn
+        - Microsoft Docs
+        - GitHub repositories
+        - Blog articles
+        - Videos
+        - Other
+    validations:
+      required: true
   - type: input
     id: contact
     attributes:
