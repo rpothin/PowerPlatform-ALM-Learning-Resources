@@ -55,14 +55,6 @@ If you want to participate to this project, but you are not sure how you can do 
 - By email at raphael.pothin@gmail.com
 - On [Twitter](https://twitter.com/RaphaelPothin)
 
-### PowerPlatform-ALM-Learning-Resources/blob/main/CONTRIBUTING.md)
-
-### Not Sure Where to Start?
-
-If you want to participate to this project, but you are not sure how you can do it, do not hesitate to contact [@rpothin](https://github.com/rpothin):
-- By email at raphael.pothin@gmail.com
-- On [Twitter](https://twitter.com/RaphaelPothin)
-
 ### ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
