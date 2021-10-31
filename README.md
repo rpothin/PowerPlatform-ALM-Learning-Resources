@@ -53,6 +53,13 @@
 - [GitHub Actions for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/devops-github-actions) *- starting point for Power Platform ALM implementation in GitHub*
 - [Tutorial: Automate solution deployment using GitHub Actions for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/tutorials/github-actions-deploy)
 
+### GitHub repositories
+
+- [microsoft/coe-alm-accelerator-templates](https://github.com/microsoft/coe-alm-accelerator-templates) *- pipeline templates for Azure DevOps*
+- [microsoft/coe-starter-kit/ALMAcceleratorForAdvancedMakers](https://github.com/microsoft/coe-starter-kit/tree/main/ALMAcceleratorForAdvancedMakers) *- application of the CoE Starter Kit to managed Power Platform ALM with Azure DevOps*
+- [microsoft/coe-starter-kit/ALMAcceleratorForMakers](https://github.com/microsoft/coe-starter-kit/tree/main/ALMAcceleratorForMakers) *- application of the CoE Starter Kit to managed Power Platform ALM with GitHub*
+- [rpothin/PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) *- GitHub repository template to simplify the setup of automation for Power Platform ALM with GitHub*
+
 ## ❗ Code of Conduct
 
 I, Raphael Pothin, as creator of this project, am dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. I expect everyone visiting or participating to this project to abide by the following [**Code of Conduct**](https://github.com/rpothin/PowerPlatform-ALM-Learning-Resources/blob/main/CODE_OF_CONDUCT.md). Please read it.
