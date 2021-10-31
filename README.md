@@ -45,6 +45,14 @@
 - [Develop an Application Lifecycle Management strategy for Dynamics 365 solutions](https://docs.microsoft.com/en-us/learn/modules/application-lifecycle-management/)
 - [Extend Power Apps portals](https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/)
 
+### Microsoft Docs
+
+- [Application lifecycle management (ALM) with Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/) *- main Microsoft Docs page on the topic*
+- [Implementing healthy project and solution ALM](https://docs.microsoft.com/en-us/power-platform/alm/implement-healthy-alm) *- presentation of different scenarios (ex: "Scenario 3: Moving from unmanaged to managed solutions")*
+- [Microsoft Power Platform Build Tools for Azure DevOps](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools) *- starting point for Power Platform ALM implementation in Azure DevOps*
+- [GitHub Actions for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/devops-github-actions) *- starting point for Power Platform ALM implementation in GitHub*
+- [Tutorial: Automate solution deployment using GitHub Actions for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/tutorials/github-actions-deploy)
+
 ## ❗ Code of Conduct
 
 I, Raphael Pothin, as creator of this project, am dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. I expect everyone visiting or participating to this project to abide by the following [**Code of Conduct**](https://github.com/rpothin/PowerPlatform-ALM-Learning-Resources/blob/main/CODE_OF_CONDUCT.md). Please read it.
