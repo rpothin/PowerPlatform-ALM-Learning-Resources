@@ -63,15 +63,7 @@ If you want to participate to this project, but you are not sure how you can do 
 - By email at raphael.pothin@gmail.com
 - On [Twitter](https://twitter.com/RaphaelPothin)
 
-### Contributors
-
-...
-
-## 📝 License
-
-This project is licensed under the [MIT](https://github.com/rpothin/PowerPlatform-ALM-Learning-Resources/blob/main/LICENSE) license.
-
-## Contributors ✨
+### ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -90,3 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## 📝 License
+
+This project is licensed under the [MIT](https://github.com/rpothin/PowerPlatform-ALM-Learning-Resources/blob/main/LICENSE) license.
