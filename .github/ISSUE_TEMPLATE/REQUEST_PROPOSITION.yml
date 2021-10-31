@@ -1,0 +1,39 @@
+name: Request / Proposition
+description: Submit a request or a proposition to improve the list of learning resources compiled in this repository.
+title: "[Request / Proposition] <Title>"
+labels: [documentation]
+assignees:
+  - rpothin
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Link to the learning resource you want to add.
+      placeholder: ex. https://docs.microsoft.com/en-us/learn/modules/application-lifecycle-management-architect/
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Please, give us more details about the learning resource you want to add.
+      placeholder: "ex: This is a great new module in MS Learn about Power Platform ALM '...'"
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/rpothin/PowerPlatform-ALM-Learning-Resources/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
