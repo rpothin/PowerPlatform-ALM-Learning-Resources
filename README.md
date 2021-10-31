@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <h1 align="center">
         Power Platform ALM Learning Resources
     </h1>
@@ -20,6 +17,10 @@
 </p>
 
 <p align="center">
+    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    <a href="#contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" /></a>
+    <!-- ALL-CONTRIBUTORS-BADGE:END -->
     <a href="#watchers" alt="Watchers">
         <img src="https://img.shields.io/github/watchers/rpothin/PowerPlatform-ALM-Learning-Resources?style=social" /></a>
     <a href="#forks" alt="Forks">
@@ -55,7 +56,7 @@ If you want to participate to this project, but you are not sure how you can do 
 - By email at raphael.pothin@gmail.com
 - On [Twitter](https://twitter.com/RaphaelPothin)
 
-### ✨ Contributors
+### Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
