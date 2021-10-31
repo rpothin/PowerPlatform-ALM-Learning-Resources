@@ -52,23 +52,17 @@ If you want to participate to this project, but you are not sure how you can do 
 - By email at raphael.pothin@gmail.com
 - On [Twitter](https://twitter.com/RaphaelPothin)
 
+### PowerPlatform-ALM-Learning-Resources/blob/main/CONTRIBUTING.md)
+
+### Not Sure Where to Start?
+
+If you want to participate to this project, but you are not sure how you can do it, do not hesitate to contact [@rpothin](https://github.com/rpothin):
+- By email at raphael.pothin@gmail.com
+- On [Twitter](https://twitter.com/RaphaelPothin)
+
 ### Contributors
 
-Thanks to the following people who have contributed to this project:
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://medium.com/rapha%C3%ABl-pothin"><img src="https://avatars0.githubusercontent.com/u/23240245?v=4" width="100px;" alt=""/><br /><sub><b>Raphael Pothin</b></sub></a><br /><a href="#ideas-rpothin" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template/commits?author=rpothin" title="Code">💻</a> <a href="#content-rpothin" title="Content">🖋</a> <a href="https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template/commits?author=rpothin" title="Documentation">📖</a> <a href="#maintenance-rpothin" title="Maintenance">🚧</a> <a href="#projectManagement-rpothin" title="Project Management">📆</a> <a href="https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template/commits?author=rpothin" title="Tests">⚠️</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-> *This project follows the [all-contributors](https://allcontributors.org/docs/en/specification) specification. Everyone who would like to contribute to it is welcome!*
+...
 
 ## 📝 License
 
